@@ -1,0 +1,9 @@
+{
+	"name": "Anything231",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8c431fba-0880-4afa-93cc-6d90ba6d8a51",
+		"tenantId": "e0793d39-0939-496d-b129-198edd916feb"
+	}
+}
